@@ -5,7 +5,7 @@
       <h1>Restaurant QR Code Menu</h1>
       <p>Scan the QR code to view our menu</p>
     </div>
-    <qrcode value="https://www.mcdonalds.com/us/en-us/full-menu.html" :options="{
+    <qrcode value="https://www.buffalowildwings.com/en/food/" :options="{
       color: {
         dark: '#FFC72C',
         light: '#DA291C',
